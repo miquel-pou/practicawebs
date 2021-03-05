@@ -8,3 +8,10 @@ td {
     height: 40px;
 }
 
+tr:first-child {
+    background-color: red;
+}
+
+tr:nth-child(2) {
+    background-color: yellow;
+}
